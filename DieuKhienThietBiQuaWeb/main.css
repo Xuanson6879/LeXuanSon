@@ -1,0 +1,199 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto",sans-serif;
+}
+.container{
+    width: 980px;
+    margin: 0 auto;
+    
+}
+header h3{
+    float: right;
+    color: rgb(225, 23, 64);
+    text-align: center;
+    margin-right: 350px;
+    line-height: 100px;
+    
+}
+header{
+    
+    height: 150px;
+    background: rgb(149, 149, 240);
+}
+nav {
+    height: 35px;
+    background: rgb(220, 234, 67);
+}
+nav .menu ul{
+    list-style: none;
+
+}
+nav .menu ul li{
+    float: left;
+    line-height: 35px;
+    padding:0 15px ;
+    
+}
+nav .menu ul li a{
+    color:rgb(238, 31, 62);
+    font-size: 14px;
+    text-decoration: none;
+}
+nav .search{
+    line-height: 35px;
+    float: right;
+    margin-right: 30px;
+}
+nav .search input{
+    width: 200px;
+}
+
+
+article .menuItem1{
+    margin-top: 100px;
+    
+}
+/* article .menuItem2{
+    margin-top: 100px;
+} */
+article .menuItem1 .item1{
+    width: 28%;
+    padding: 12px;
+    float: left;
+    margin-right: 2%;
+}
+article .menuItem2 .item1{
+    width: 28%;
+    padding: 12px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 15px;
+    margin-right: 2%;
+    
+}
+#fix3{
+    margin-right: 0;
+}
+#fix1{
+    margin-left: 40px;
+}
+#fix2{
+    margin-top: 40px;
+}
+#word1{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#showTemp{
+    color: black;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+#showHumid{
+    color: black;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+#showGas{
+    color: black;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+#word2{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#word3{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#btn1{
+    background-color: greenyellow;
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 30px;
+    width: 70px;
+}
+#btn2{
+    background-color: red;
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 30px;
+    width: 70px;
+}
+#btn3{
+    border-radius: 20px;
+    background-color: greenyellow;
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+}
+#btn4{
+    border-radius: 20px;
+    background-color: red;
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+}
+#btn5{
+    border-radius: 20px;
+    background-color: greenyellow;
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+}
+#btn6{
+    border-radius: 20px;
+    background-color: red;
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+}
+#word4{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+#word5{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+#word6{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.footer{
+    margin-top: 50px;
+    border: 1px solid #ccc;
+    padding: 40px;
+    height: 200px;
+    background-color: blanchedalmond;
+}
+/* .container{
+    width: 900px;
+    height: 400px;
+    
+
+} */
+#member1 {
+    width: 450px;
+    float: left;
+}
+#member2{
+    width: 450px;
+    float: right;
+} 
+#wordMember{
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+

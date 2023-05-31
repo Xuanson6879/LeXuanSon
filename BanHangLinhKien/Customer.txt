@@ -1,0 +1,4 @@
+72	Ngo kha	male	29/06/2001	6	
+92	quang huy	male	26/09/2001	5	
+68	minh dat	male	27/08/2001	4	
+60	xuat son	male	01/01/2001	2	

@@ -1,0 +1,9 @@
+72	id_customer
+3	Ram	18/05/2022	USA	Kingston	80	3	60	5	
+92	id_customer
+2	Keyboard	18/05/2022	USA	Logitech	278	7	150	9	
+1	Mouse	18/05/2001	USA	Logitech	100	5	100	2	
+68	id_customer
+60	id_customer
+1	Mouse	18/05/2001	USA	Logitech	100	5	100	7	
+2	Keyboard	18/05/2022	USA	Logitech	278	7	150	8	
