@@ -1,11 +1,11 @@
 //Final
 
 //Include the library files
-#include <LiquidCrystal_I2C.h>
+//#include <LiquidCrystal_I2C.h>
 #define BLYNK_PRINT Serial
-#include <ESP8266WiFi.h>
-#include <BlynkSimpleEsp8266.h>
-#include <DHT.h>
+//#include <ESP8266WiFi.h>
+//#include <BlynkSimpleEsp8266.h>
+//#include <DHT.h>
 
 //Initialize the LCD display
 //LiquidCrystal_I2C LCD (0x27, 16, 2);
